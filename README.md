@@ -1,3 +1,4 @@
+[![Build Status](https://fabrosell.visualstudio.com/Space%20Game%20DevOps%20-%20Implement%20a%20code%20workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://fabrosell.visualstudio.com/Space%20Game%20DevOps%20-%20Implement%20a%20code%20workflow/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
@@ -63,3 +64,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
